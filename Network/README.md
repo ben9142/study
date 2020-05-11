@@ -17,7 +17,25 @@ _그렇다면 이러한 특성을 이해한 뒤에는 어디에 적용되는지�
 
 ## TCP/IP 네트워크 스택 이해하기
   * 참고자료 : [http://d2.naver.com/helloworld/47667]
-  
+
+## UDP
+- 데이터를 데이터그램 단위로 처리하는 프로토콜
+
+## 패킷
+- 인터넷 내에서 데이터를 보내기 위한 경로배정(라우팅)을 효율적으로 하기 위해서 데이터를 여러 개의 조각들로 나누어 전송을 하는데 이때, 이 조각을 패킷이라고 함.
+
+## TPC/IP/UDP
+[https://mangkyu.tistory.com/15]
+
+## HTTP통신과 Socket통신의 차이
+[https://mangkyu.tistory.com/48?category=762469]
+
+## API
+아주 쉽게 말해서, API는 어떤 서버의 특정한 부분에 접속해서 그 안에 있는 데이터와 서비스를 이용할 수 있게 해주는 소프트웨어 도구이다. API를 이용하면 두 개의 소프트웨어가 서로 통신을 주고받을 수 있으며, 이는 우리가 모바일을 이용해서 하는 모든 행동들의 기반을 이루고 있다고 할 수 있습니다. API가 있음으로써 IT 아키텍처가 간단하게 만들어질 수 있고, 마케팅에 힘을 실어주며, 데이터 공유를 더 쉽게 해준다.
+
+## SOAP vs REST
+soap은 그 자체로 프로토콜이며 rest는 아키텍쳐 스타일이다.
+[http://blog.wishket.com/soap-api-vs-rest-api-%EB%91%90-%EB%B0%A9%EC%8B%9D%EC%9D%98-%EA%B0%80%EC%9E%A5-%ED%81%B0-%EC%B0%A8%EC%9D%B4%EC%A0%90%EC%9D%80/]
 
 ## VPN(Virtual Private Network)
 
